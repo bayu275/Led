@@ -2,10 +2,11 @@
 ### Getting Started
 <li>Open your terminal (CMD)
 <li> go to your library folder ( /Arduino/libraries )
-<li>example cd Arduino/libraries and then
-<li> git clone <a><b>https://github.com/bayu275/Led</b></a>
+<li>example <b>cd Arduino/libraries</b> and then
+<li>write your terminal or cmd <b>git clone https://github.com/bayu275/Led</b>
 <li> write your sketch like the code below :
-<pre style=margin-top:20px;>
+<br></br>
+<pre>
 <code>
 #include "Led.h"
 Led led13(13);
