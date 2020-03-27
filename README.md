@@ -4,6 +4,7 @@
 <li> go to your library folder ( /Arduino/libraries )
 <li>example cd Arduino/libraries and then
 <li> git clone <a><b>https://github.com/bayu275/Led</b></a>
+<li> write your sketch like the code below :
 <pre style=margin-top:20px;>
 <code>
 #include "Led.h"
@@ -18,3 +19,4 @@ void loop() {
 }
 </code>
 </pre>
+<li> Verify & Upload your code to Arduino.
