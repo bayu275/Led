@@ -1,0 +1,28 @@
+Led KEYWORD1
+init() KEYWORD2
+on() KEYWORD2
+of() KEYWORD2
+blink() KEYWORD2
+
+#######################################
+# Syntax Coloring Map For Keyboard
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Led	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+on	KEYWORD2
+of	KEYWORD2
+blink	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
